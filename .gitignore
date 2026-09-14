@@ -11,3 +11,10 @@ bin/
 .classpath
 .project
 .settings/
+
+# Database configuration
+DBConfig.java
+
+# OS files
+.DS_Store
+Thumbs.db
