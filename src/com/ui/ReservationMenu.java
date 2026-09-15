@@ -25,7 +25,7 @@ public class ReservationMenu {
             System.out.println("3. Search Reservation");
             System.out.println("4. Update Reservation Details");
             System.out.println("5. Cancel Reservation");
-            System.out.println("0. Exit");
+            System.out.println("0. Return to Main Menu");
             System.out.println("-----------------------------------");
             System.out.print("Enter Your Choice : ");
             int choice=sc.nextInt();

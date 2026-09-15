@@ -23,7 +23,7 @@ public class RoomMenu {
             System.out.println("2. View Available Rooms");
             System.out.println("3. Search Room By ID");
             System.out.println("4. Search Room By Number");
-            System.out.println("0. Exit");
+            System.out.println("0. Return to Main Menu");
             System.out.println("-----------------------------------");
             System.out.print("Enter Your Choice : ");
             int choice=sc.nextInt();

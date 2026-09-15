@@ -24,7 +24,7 @@ public class CustomerMenu {
             System.out.println("3. Search Customer");
             System.out.println("4. Update Customer Details");
             System.out.println("5. Delete Customer");
-            System.out.println("0. Exit");
+            System.out.println("0. Return to Main Menu");
             System.out.println("-----------------------------------");
             System.out.print("Enter Your Choice : ");
             int choice=sc.nextInt();
